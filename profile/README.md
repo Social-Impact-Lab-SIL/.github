@@ -4,7 +4,7 @@ The Social Impact Lab is a dynamic, multidisciplinary research community dedicat
 ---
 ## Lab Portals & Repositories
 
-* **[SIL Publications Archive](https://github.com/Social-Impact-Lab-SIL/SIL-Publications)** — Complete bibliographic records, metadata, and replication links for publications and submitted manuscripts.
+* **[SIL Publications Archive](https://github.com/Social-Impact-Lab-SIL/SIL-Publications)** — Replication materials for publications and submitted manuscripts.
 * **[SIL Data Repository](https://github.com/Social-Impact-Lab-SIL/SIL-Data-Repository)** — Public research data, codebooks, and replication files associated with our empirical studies.
 * **[Lab Dashboard & Tools](https://github.com/Social-Impact-Lab-SIL/Lab-Dashboard)** — Interactive publication data visualization.
 
