@@ -1,7 +1,19 @@
 # Social Impact Lab (SIL)
 The Social Impact Lab is a dynamic, multidisciplinary research community dedicated to turning innovative ideas into rigorous research that improves population health and well-being. Our research frequently utilizes policy and population-level datasets, quasi-experimental study designs, and advanced statistical methods to produce causal insights that inform decision-making and policy development. Our efforts are guided by commitments to open dialogue, rigor, integrity, ingenuity, and knowledge-sharing. The lab includes a well-resourced research team housed at the University of Missouri, as well as a national affiliate program. The lab is funded by the University of Missouri.
 
-# Our Research Core
+---
+## Lab Portals & Repositories
+
+* **[SIL Publications Archive](https://github.com/Social-Impact-Lab-SIL/SIL-Publications)** — Complete bibliographic records, metadata, and replication links for publications and submitted manuscripts.
+* **[SIL Data Repository](https://github.com/Social-Impact-Lab-SIL/SIL-Data-Repository)** — Public research data, codebooks, and replication files associated with our empirical studies.
+* **[Lab Dashboard & Tools](https://github.com/Social-Impact-Lab-SIL/Lab-Dashboard)** — Interactive publication data visualization.
+
+---
+
+## Licensing & Usage
+Unless otherwise specified, code and data repositories within the Social Impact Lab organization are made available under open-source licenses (such as the MIT License). Please refer to individual repository documentation for specific citation requirements.
+
+# Our Research Cores
 The lab is structured into three core areas—Economics, Law & Policy, and Public Health—each of which supports independent research while contributing expertise across cores to foster collaboration, enhance research outputs, and broaden impact. 
 
 ## Economics
@@ -23,3 +35,6 @@ The Lab brings together a community of researchers from a variety of disciplines
 
 ## Sharing Research
 We believe in the power of knowledge-sharing to catalyze change. Our Lab is committed to disseminating research findings, fostering dialogue, and engaging with diverse audiences, including policymakers, practitioners, and the public. By doing so, we aim to inform and inspire evidence-based decision-making and policy development. We make our research, databases and resources publicly accessible to demystify our research for the public and to empower the broader research community to build upon our work.
+
+# Contact
+Email: [socialimpactlab@missouri.edu](mailto:socialimpactlab@missouri.edu)
